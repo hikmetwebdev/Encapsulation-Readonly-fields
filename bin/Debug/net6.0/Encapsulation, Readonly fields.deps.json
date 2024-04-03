@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Encapsulation, Readonly fields/1.0.0": {
+        "runtime": {
+          "Encapsulation, Readonly fields.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encapsulation, Readonly fields/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

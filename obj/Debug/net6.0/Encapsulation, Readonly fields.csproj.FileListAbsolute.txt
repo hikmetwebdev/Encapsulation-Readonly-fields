@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\bin\Debug\net6.0\Encapsulation, Readonly fields.exe
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\bin\Debug\net6.0\Encapsulation, Readonly fields.deps.json
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\bin\Debug\net6.0\Encapsulation, Readonly fields.runtimeconfig.json
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\bin\Debug\net6.0\Encapsulation, Readonly fields.dll
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\bin\Debug\net6.0\Encapsulation, Readonly fields.pdb
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\Encapsulation, Readonly fields.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\Encapsulation, Readonly fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\Encapsulation, Readonly fields.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\Encapsulation, Readonly fields.AssemblyInfo.cs
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\Encapsulation, Readonly fields.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\Encapsulation, Readonly fields.dll
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\refint\Encapsulation, Readonly fields.dll
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\Encapsulation, Readonly fields.pdb
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\Encapsulation, Readonly fields.genruntimeconfig.cache
+C:\Users\User\source\repos\Classes\Encapsulation, Readonly fields\obj\Debug\net6.0\ref\Encapsulation, Readonly fields.dll
